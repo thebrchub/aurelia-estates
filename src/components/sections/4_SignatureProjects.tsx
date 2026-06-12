@@ -7,7 +7,7 @@ const projects = [
     name: "The Obsidian",
     category: "Ultra-Luxury Residences",
     description: "A striking silhouette against the twilight sky. The Obsidian features private infinity pools, smart-home integration, and a dedicated helipad. Redefining vertical living.",
-    image: "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=2070&auto=format&fit=crop",
+    image: "/Obsidian.png",
     stats: { size: "4,500 Sq Ft", type: "4 & 5 BHK" }
   },
   {
