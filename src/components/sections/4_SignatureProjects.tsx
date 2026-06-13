@@ -7,7 +7,7 @@ const projects = [
     name: "The Obsidian",
     category: "Ultra-Luxury Residences",
     description: "A striking silhouette against the twilight sky. The Obsidian features private infinity pools, smart-home integration, and a dedicated helipad. Redefining vertical living.",
-    image: "/Obsidian.png",
+    image: "/Obsidian.webp",
     stats: { size: "4,500 Sq Ft", type: "4 & 5 BHK" }
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     name: "Aurelia Estates",
     category: "Integrated Township",
     description: "A city within a city. Spanning over 150 acres, featuring a 9-hole golf course, international school, and wellness retreats designed by world-renowned architects.",
-    image: "/township.png",
+    image: "/township.webp",
     stats: { size: "150 Acres", type: "Mixed Use" }
   }
 ];

@@ -24,7 +24,7 @@ export default function Footer() {
             <div className="absolute left-1/2 top-1/2 h-[150%] w-[150%] -translate-x-1/2 -translate-y-1/2 rounded-full bg-luxury-gold/10 blur-[50px] transition-opacity duration-700 hover:opacity-100" />
             
             <img 
-              src="/logo.png" 
+              src="/logo.webp" 
               alt="Aurelia Estates" 
               className="relative z-10 h-30 md:h-32 lg:h-80 object-contain drop-shadow-[0_0_15px_rgba(212,175,55,0.2)]"
             />

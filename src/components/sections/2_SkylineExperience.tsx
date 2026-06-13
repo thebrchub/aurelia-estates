@@ -13,7 +13,7 @@ const premiumProjects = [
     location: "Financial District",
     price: "₹25 Cr Onwards",
     completion: "Q4 2026",
-    image: "/skyline1.png",
+    image: "/skyline1.webp",
   },
   {
     id: "02",
@@ -29,7 +29,7 @@ const premiumProjects = [
     location: "Jubilee Hills",
     price: "₹35 Cr Onwards",
     completion: "Q1 2028",
-    image: "/skyline3.png",
+    image: "/skyline3.webp",
   },
 ];
 

@@ -47,7 +47,7 @@ export default function InteractiveMasterplan() {
           <div className="relative w-full min-h-[400px] md:min-h-[500px] overflow-hidden border border-white/10 bg-luxury-800 lg:w-2/3 lg:min-h-[600px]">
             
             <img 
-              src="/masterplan.png" 
+              src="/masterplan.webp" 
               alt="Architectural Site Masterplan"
               className="absolute inset-0 h-full w-full object-cover opacity-100 transition-transform duration-[3s] hover:scale-105"
             />

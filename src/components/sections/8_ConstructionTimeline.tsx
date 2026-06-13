@@ -28,7 +28,7 @@ export default function ConstructionTimeline() {
             {/* High-end architectural construction image */}
             {/* High-end architectural construction image */}
 <img 
-  src="/timeline.png" 
+  src="/timeline.webp" 
   alt="Construction Telemetry"
   className="absolute inset-0 h-full w-full object-cover opacity-80 transition-transform duration-[4s] hover:scale-105"
 />

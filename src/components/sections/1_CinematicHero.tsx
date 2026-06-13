@@ -19,7 +19,7 @@ export default function CinematicHero() {
         transition={{ type: "tween", ease: "easeOut", duration: 1.5 }}
       >
         <img
-          src="/hero.png"
+          src="/hero.webp"
           alt="Aurelia Estates Aerial"
           className="h-full w-full object-cover"
         />
